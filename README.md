@@ -69,4 +69,4 @@ Then, follow the directions provided.
 
 Finally, the `build_json.py` script demonstrates how to turn a Python data structure into a JSON string and write that to disk. This script was used to build the JSON file that is the input for `run_procedure.py`.
 
-Enjoy exploring these scripts and learning Python!
+
