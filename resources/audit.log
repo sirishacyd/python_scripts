@@ -1,0 +1,108 @@
+type=BPF msg=audit(1667534462.890:923): prog-id=0 op=UNLOAD
+type=SERVICE_START msg=audit(1667534462.915:924): pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:in
+it_t:s0 msg='unit=dnf-makecache comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success
+'UID="root" AUID="unset"
+type=SERVICE_STOP msg=audit(1667534462.915:925): pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:ini
+t_t:s0 msg='unit=dnf-makecache comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+UID="root" AUID="unset"
+type=SERVICE_START msg=audit(1667538842.903:926): pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:in
+it_t:s0 msg='unit=dnf-makecache comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success
+'UID="root" AUID="unset"
+type=SERVICE_STOP msg=audit(1667538842.903:927): pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:ini
+t_t:s0 msg='unit=dnf-makecache comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+UID="root" AUID="unset"
+type=SERVICE_START msg=audit(1667540402.805:928): pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:in
+it_t:s0 msg='unit=systemd-tmpfiles-clean comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? re
+s=success'UID="root" AUID="unset"
+type=SERVICE_STOP msg=audit(1667540402.805:929): pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:ini
+t_t:s0 msg='unit=systemd-tmpfiles-clean comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res
+=success'UID="root" AUID="unset"
+type=SERVICE_START msg=audit(1667545805.821:930): pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:in
+it_t:s0 msg='unit=dnf-makecache comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success
+'UID="root" AUID="unset"
+type=SERVICE_STOP msg=audit(1667545805.821:931): pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:ini
+t_t:s0 msg='unit=dnf-makecache comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+UID="root" AUID="unset"
+type=SERVICE_START msg=audit(1667550136.943:932): pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:in
+it_t:s0 msg='unit=dnf-makecache comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success
+'UID="root" AUID="unset"
+type=SERVICE_STOP msg=audit(1667550136.943:933): pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:ini
+t_t:s0 msg='unit=dnf-makecache comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+UID="root" AUID="unset"
+type=SERVICE_START msg=audit(1667554562.906:934): pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:in
+it_t:s0 msg='unit=dnf-makecache comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success
+'UID="root" AUID="unset"
+type=SERVICE_STOP msg=audit(1667554562.906:935): pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:ini
+t_t:s0 msg='unit=dnf-makecache comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+UID="root" AUID="unset"
+type=SERVICE_START msg=audit(1667557503.691:936): pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:in
+it_t:s0 msg='unit=flatpak-system-helper comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res
+=success'UID="root" AUID="unset"
+type=SERVICE_STOP msg=audit(1667558118.807:937): pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:ini
+t_t:s0 msg='unit=flatpak-system-helper comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=
+success'UID="root" AUID="unset"
+type=SERVICE_START msg=audit(1667559731.240:938): pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:in
+it_t:s0 msg='unit=dnf-makecache comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success
+'UID="root" AUID="unset"
+type=SERVICE_STOP msg=audit(1667559731.240:939): pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:ini
+t_t:s0 msg='unit=dnf-makecache comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+UID="root" AUID="unset"
+type=SERVICE_START msg=audit(1667561106.741:940): pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:in
+it_t:s0 msg='unit=flatpak-system-helper comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res
+=success'UID="root" AUID="unset"
+type=SERVICE_STOP msg=audit(1667561706.763:941): pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:ini
+t_t:s0 msg='unit=flatpak-system-helper comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=
+success'UID="root" AUID="unset"
+type=SERVICE_START msg=audit(1667565242.914:942): pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:in
+it_t:s0 msg='unit=dnf-makecache comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success
+'UID="root" AUID="unset"
+type=SERVICE_STOP msg=audit(1667565242.914:943): pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:ini
+t_t:s0 msg='unit=dnf-makecache comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+UID="root" AUID="unset"
+type=SERVICE_START msg=audit(1667569202.900:944): pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:in
+it_t:s0 msg='unit=dnf-makecache comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success
+'UID="root" AUID="unset"
+type=SERVICE_STOP msg=audit(1667569202.900:945): pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:ini
+t_t:s0 msg='unit=dnf-makecache comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+UID="root" AUID="unset"
+type=BPF msg=audit(1667570418.545:946): prog-id=145 op=LOAD
+type=SERVICE_START msg=audit(1667570418.580:947): pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:in
+it_t:s0 msg='unit=fprintd comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'UID="
+root" AUID="unset"
+type=USER_AUTH msg=audit(1667570421.147:948): pid=220618 uid=0 auid=1000 ses=2 subj=system_u:system_r:xdm_t:s0-s0:c0.c
+1023 msg='op=PAM:authentication grantors=pam_usertype,pam_localuser,pam_unix,pam_gnome_keyring acct="drines" exe="/usr
+/libexec/gdm-session-worker" hostname=fedora addr=? terminal=/dev/tty1 res=success'UID="root" AUID="drines"
+type=USER_ACCT msg=audit(1667570421.154:949): pid=220618 uid=0 auid=1000 ses=2 subj=system_u:system_r:xdm_t:s0-s0:c0.c
+1023 msg='op=PAM:accounting grantors=pam_unix,pam_localuser acct="drines" exe="/usr/libexec/gdm-session-worker" hostna
+me=fedora addr=? terminal=/dev/tty1 res=success'UID="root" AUID="drines"
+type=CRED_REFR msg=audit(1667570421.154:950): pid=220618 uid=0 auid=1000 ses=2 subj=system_u:system_r:xdm_t:s0-s0:c0.c
+1023 msg='op=PAM:setcred grantors=pam_localuser,pam_unix,pam_gnome_keyring acct="drines" exe="/usr/libexec/gdm-session
+-worker" hostname=fedora addr=? terminal=/dev/tty1 res=success'UID="root" AUID="drines"
+type=SERVICE_STOP msg=audit(1667570448.745:951): pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:ini
+t_t:s0 msg='unit=fprintd comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'UID="r
+oot" AUID="unset"
+type=BPF msg=audit(1667570448.752:952): prog-id=0 op=UNLOAD
+type=SERVICE_START msg=audit(1667575690.441:953): pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:in
+it_t:s0 msg='unit=dnf-makecache comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success
+'UID="root" AUID="unset"
+type=SERVICE_STOP msg=audit(1667575690.441:954): pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:ini
+t_t:s0 msg='unit=dnf-makecache comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+UID="root" AUID="unset"
+type=SERVICE_START msg=audit(1667580256.521:955): pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:in
+it_t:s0 msg='unit=NetworkManager-dispatcher comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=?
+ res=success'UID="root" AUID="unset"
+type=NETFILTER_CFG msg=audit(1667580256.587:956): table=firewalld:28 family=1 entries=5 op=nft_unregister_rule pid=129
+5 subj=system_u:system_r:firewalld_t:s0 comm="firewalld"
+type=SERVICE_STOP msg=audit(1667585013.600:957): pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:ini
+t_t:s0 msg='unit=sssd-kcm comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'UID="
+root" AUID="unset"
+type=SERVICE_START msg=audit(1667585013.637:958): pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:in
+it_t:s0 msg='unit=systemd-suspend comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=succe
+ss'UID="root" AUID="unset"
+type=SERVICE_STOP msg=audit(1667585013.637:959): pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:ini
+t_t:s0 msg='unit=systemd-suspend comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=succes
+s'UID="root" AUID="unset"
+type=BPF msg=audit(1667585015.396:960): prog-id=146 op=LOAD
+type=SERVICE_START msg=audit(1667585015.439:961): pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:in
+it_t:s0 msg='unit=fprintd comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'UID="
+root" AUID="unset"
